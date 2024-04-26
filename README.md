@@ -11,3 +11,7 @@ CNN-Based Model: Employs convolutional layers to extract features from static te
 
 BERT-Based Model: Leverages a pre-trained BERT model to achieve high accuracy through deep bidirectional understanding of language context. Capable of processing unknown text data and audio files accurately.
 
+
+Kaggle Dataset Link: "https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification"
+
+pretrained word vectors Link "https://www.kaggle.com/datasets/mrugankakarte/glove-6b-200d-pretrained-word-vectors"
